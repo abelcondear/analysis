@@ -8,6 +8,6 @@ I applied catching the user prompt and adding more details or information to be 
 
 Accodring the the design, I used Microsft Visio to bulid up and show the main goal and its development to start a project. This could be an example:
 
-![alt text](/image.png?raw=true)
-]
+![alt text](https://github.com/abelcondear/analysis/blob/main/ai/rag-and-ai-tools/image.png?raw=true)
+
 And to optimize the user experience we should get as many datasets as possible to enrich the answer from the AI.
