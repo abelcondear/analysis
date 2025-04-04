@@ -6,7 +6,7 @@ I applied catching the user prompt and adding more details or information to be 
 
 **How did you manage design and optimization of prompts to make the user experience better?** 
 
-According the the design, I used Microsoft Visio to build up and show the main goal and its development to start a project. This could be an example:
+According to the design, I used Microsoft Visio to build up and show the main goal and its development to start a project. This could be an example:
 
 ![alt text](https://github.com/abelcondear/analysis/blob/main/ai/rag-and-ai-tools/image.png?raw=true)
 
