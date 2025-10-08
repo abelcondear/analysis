@@ -9,8 +9,7 @@ We can make a huge difference between our normal process and the process that we
 
 These machine learning models can adjust to our problem and failures that we are currently passing by.
 
-At the moment, we apply this models mentioned, then we can appreciate how this models speed up
-our process.
+At the moment, we apply these models mentioned, then we can appreciate how these models speed up our process.
 
 Because these models are already built to use variables and constants from our normal process. So, then we can get the same result in less time and effort.
 
