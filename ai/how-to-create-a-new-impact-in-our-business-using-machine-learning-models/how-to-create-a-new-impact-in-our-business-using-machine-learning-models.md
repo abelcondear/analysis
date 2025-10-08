@@ -1,6 +1,6 @@
 ## How to create a new impact in our business, using machine learning models?
 
-In order to impact in journalism area using machine learning models, we should identify where we need
+In order to impact in our business using machine learning models, we should identify where we need
 more optimization and speed.
 
 Afterwards, we should review which machine learning model is more suitable for the situation.
