@@ -14,5 +14,4 @@ our process.
 
 Because these models are already built to use variables and constants from our normal process. So, then we can get the same result in less time and effort.
 
-Also, if we can run these models simultaneously, we may even get more results and go ahead against
-other processes.
+In case, we want to run these models simultaneously, then we may even get more results and go ahead against other processes.
