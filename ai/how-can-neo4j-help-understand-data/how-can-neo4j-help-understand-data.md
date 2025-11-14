@@ -1,4 +1,4 @@
-## How Neo4j can help understand data?
+## How can Neo4j help understand data?
 
 Neo4j may give more details about your data through graphs.
 
