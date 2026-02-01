@@ -17,14 +17,14 @@ I would performed the following actions for each item described above.
 
 **Managing complex data processing**
 
-- Use libraries like Spark framework or similar kind, in order to give data the meaning or shape that user is expecting.
-- Use intrinsic functions and/or tools from the motor of database, in order to give data the meaning or shape that the user is expecting.
+- Use libraries like Spark framework or similar kind, in order to provide data, the meaning or shape that user is expecting.
+- Use intrinsic functions and/or tools from the motor of database, in order to provide data, the meaning or shape that the user is expecting.
 
 **Ensuring high availability**
 
 - Use data caching when the application is alive.
 - Use threading to get the user request and give the response to the user by making small requests (based on the original request) in an asynchronous manner.
-- Use server load balancing as a strategy
+- Use server load balancing as a strategy.
 
 **Maintaining security under strict constraints**
 
