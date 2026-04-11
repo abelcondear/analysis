@@ -3,7 +3,7 @@
 ## Elemental requirements
 
 + Choose one company who may offer you the chance to invest small amount of money in the actions of its company.
-+ Choose one or more companies to invest money, considering the first requirement mentioned. In this way, the investment and possibilities of success may increase even more.
++ Choose one or two companies to invest money, considering the first requirement mentioned. In this way, the investment and possibilities of success may increase even more.
 
 ## Detail
 
