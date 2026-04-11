@@ -7,7 +7,7 @@
 
 ## Detail
 
-Taking short period of times as reading the Stock Market of the Company, you chose previously. 
+Taking short period of times as reading the Stock Market, of the company, you chose previously. 
 You can see by yourself, the predicted action value is one of these alternatives:
 
 + Predicted value is the same compared to the actual action value from the day before in the stock market.
