@@ -8,7 +8,7 @@
 4.	It is important leaving spending considerable time so that action go upwards or downwards. 
 5.	If the Stock Market and action value behaves randomly, then it is not possible to predict precisely the next action value.
 6.	Perform a fictitious investment and review our investment afterwards.
-7.	It is possible to start our first investments using $10,000 ARS as minimum.
+7.	It is possible to start our first investments using $10 USD as minimum.
 8.	Yahoo Finance is one of the websites, in case, it is required to analyze about the Stock Market and the action involved, without using statistics subject. At least, it is no needed, at the beginning.
 
 
