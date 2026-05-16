@@ -10,4 +10,6 @@ So, I can give a talking to people who want to introduce into this topic kind.
 
 Eventually, I would give a talking for about 30 minutes. 
 
-Next time, on the next meeting I may set up a price and make it affordable for everyone. However, I was testing already the application ***Invertir-Online***, which is an Argentinian application, which is quite good to start testing and operate through.
+Next time, on the next meeting, I may set up a price and make it affordable for everyone.
+
+However, I was testing already the application ***Invertir-Online***, which is an Argentinian application, which is quite good to start testing and operate through.
