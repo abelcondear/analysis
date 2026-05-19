@@ -1,6 +1,6 @@
 # Connections among Devices
 
-When ***Smart Device***, Smartphone, Smart TV try to connect to another Device, then We should provide security to that Connection. 
+When ***Smart Device***, Smartphone, Smart TV try to connect to another Device, then we should provide security to that Connection. 
 
 ***Smart Device*** should have a list of Devices which we already set up before. This way, we know what Device we are connecting to.
 
