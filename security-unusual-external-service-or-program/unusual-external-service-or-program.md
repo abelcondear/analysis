@@ -2,19 +2,19 @@
 
 
 
-When you are installing an application for Android. It has to be approved by Google Application Store. 
+When you are installing an application for Android. It has to be approved by Google Application Store.
 
 
 
-In case, application is approved, then it is ready to be commercialized. 
+In case, application is approved, then it is ready to be commercialized.
 
-Application’s features could be caught by other programs, which are running in other devices. 
+Application’s features could be caught by other programs, which are running in other devices.
 
 
 
 These application’s features use Wi-Fi, NFC or other services from user smart device.
 
-These mentioned external programs could try to manipulate and do what want them to do. So that could be a vulnerability. 
+These mentioned external programs could try to manipulate and do what want them to do. So that could be a vulnerability.
 
 
 
@@ -26,7 +26,5 @@ This light program should review if features that application is using, it is on
 
 
 
-This mentioned program should keep searching, whether any external service or program, it is trying to catch the same features, and consequently aborting the running of these external service or program. 
-
-
+This mentioned program should keep searching, whether any external service or program, it is trying to catch the same features, and consequently aborting the running of these external service or program.
 
